@@ -1,5 +1,6 @@
 # Overview of repository
-The video for this talk can be [viewed here on YouTube](http://youtu.be/XqzHnYLr5BE).
+
+The video can be [viewed here on YouTube](http://youtu.be/XqzHnYLr5BE).
 
 This repository includes the files related to the talk:
 
